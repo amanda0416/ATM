@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     boolean logon = false;
     private PockerCard card;
     int number;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
